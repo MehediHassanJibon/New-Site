@@ -1,0 +1,62 @@
+body{
+    
+    width: cover;
+}
+.header{}
+.menu{}
+h3{
+    color: wheat;
+    margin-bottom: -50px;
+    margin-left: 11px;
+    padding: 0px;
+}
+.menu nav{}
+.menu ul{
+    background-color: green;
+    padding: 15px;
+    text-indent: 873px;
+}
+.menu li{
+    display: inline;
+    margin-right: -4px;
+}
+.menu li a{
+    text-decoration: none;
+    padding: 15px;
+    color: wheat;
+    background: green;
+}
+.menu li a:hover{
+    background: yellowgreen;
+    color: white;
+}
+.picture{
+    background: url(../images/dark.jpg);
+}
+.login{
+    width: 300px;
+    height: 100%;
+    padding: 25px;
+    text-align: center;
+    background: chartreuse;
+}
+.user{
+    margin-top: 10px;
+    margin-bottom: 8px;
+    width: 171px;
+    height: 100%;
+    border-radius: 14px;
+    border-top-color: tomato;
+    border-bottom-color: tomato;
+    color: red;
+}
+.submit{
+    margin-top: 10px;
+    margin-bottom: 8px;
+    width: 171px;
+    height: 100%;
+    border-radius: 14px;
+    border-top-color: tomato;
+    border-bottom-color: tomato;
+    color: red;
+}
